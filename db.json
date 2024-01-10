@@ -6,7 +6,7 @@
       "escritor": "Juan Ortiz",
       "fecha": "2024-01-03",
       "lead": "Ser un buen programador no solo se trata de saber programar en uno o varios lenguajes de programación, sino también de tener habilidades y actitudes que te permitan desarrollarte en el ámbito de la programación de manera efectiva. ",
-      "imagenURL": "https://cdn.pixabay.com/photo/2015/01/08/18/30/entrepreneur-593371_960_720.jpg",
+      "imagenURL": "https://github.com/jdocdev/portfolio-app/blob/a562c409159a692ef8ccbcb01f3983c88ff3ed45/public/1.jpg",
       "texto": "— Aprende Constantemente:\nMantente actualizado con las últimas tendencias y herramientas de programación. Dedica tiempo a aprender nuevos lenguajes, frameworks y herramientas para mejorar tus habilidades.\n\n—  Sé Organizado:\nMantén un código limpio y organizado para facilitar su comprensión y mantenimiento. Utiliza técnicas como la refactorización y la documentación para asegurar la legibilidad.\n\n— Sé Perseverante:\nEnfrenta los desafíos con perseverancia. Aprende de los errores y sigue adelante, especialmente ante problemas complejos que puedan surgir.\n\n— Sé Paciente:\nEl proceso de programación puede ser largo y tedioso. Evita apresurarte, ya que la paciencia previene errores y problemas futuros.\n\n— Colabora con Otros:\nLa programación es a menudo un trabajo en equipo. Aprende a colaborar en proyectos, utiliza herramientas como Git y practica la retroalimentación constructiva.\n\n— Comunica Tus Ideas:\nLa programación puede ser compleja; aprende a comunicar soluciones y problemas de manera clara y concisa para una mejor comprensión.\n\n— Práctica Continua:\nDesarrolla tus habilidades mediante la práctica constante. Dedica tiempo a proyectos personales y resuelve problemas para mejorar tus capacidades.\n\nRecuerda que ser un buen programador requiere práctica y dedicación. ",
       "id": 1
     },
@@ -16,7 +16,7 @@
       "escritor": "Juan Ortiz",
       "fecha": "2024-01-03",
       "lead": "En el cambiante mundo del desarrollo web, es crucial mantenerse al tanto de los principios esenciales que guían la creación de aplicaciones web modernas.",
-      "imagenURL": "https://cdn.pixabay.com/photo/2016/02/18/19/25/pc-1207886_960_720.jpg",
+      "imagenURL": "https://github.com/jdocdev/portfolio-app/blob/a562c409159a692ef8ccbcb01f3983c88ff3ed45/public/2.jpg",
       "texto": "— Responsive Design:\nGarantiza que tu sitio web sea accesible y tenga una apariencia óptima en diversos dispositivos, desde computadoras de escritorio hasta dispositivos móviles.\n\n— Optimización de Rendimiento:\nMejora la velocidad de carga mediante la optimización de imágenes, técnicas de almacenamiento en caché y carga asíncrona de recursos.\n\n— Seguridad:\nImplementa buenas prácticas de seguridad, como el uso de HTTPS, validación de entrada del usuario y protección contra ataques comunes como XSS y CSRF.\n\n— Desarrollo impulsado por componentes:\nAdopta arquitecturas basadas en componentes para facilitar el desarrollo, mantenimiento y escalabilidad de tu aplicación web.\n\n— Versionado y Control de Código Fuente:\nUtiliza sistemas de control de versiones como Git para rastrear cambios y facilitar la colaboración con otros desarrolladores.\n\n— Automatización de Tareas:\nImplementa herramientas de automatización para tareas repetitivas, como construcción y prueba, para mejorar la eficiencia del desarrollo.\n\n— Accesibilidad:\nDiseña tu sitio web considerando la accesibilidad, asegurando que todas las personas, independientemente de sus habilidades, puedan utilizarlo.\n\nEstos principios son fundamentales para el éxito en el desarrollo web. ",
       "id": 2
     },
@@ -26,7 +26,7 @@
       "escritor": "Juan Ortiz",
       "fecha": "2024-01-03",
       "lead": "El desarrollo front-end es la parte de la creación de un sitio web o aplicación que se encarga de la interfaz de usuario (UI) y la experiencia del usuario (UX). Los desarrolladores front-end son responsables de crear el aspecto y el comportamiento de los sitios web y las aplicaciones.",
-      "imagenURL": "https://cdn.pixabay.com/photo/2015/05/28/14/38/ux-787980_960_720.jpg",
+      "imagenURL": "https://github.com/jdocdev/portfolio-app/blob/a562c409159a692ef8ccbcb01f3983c88ff3ed45/public/3.jpg",
       "texto": "Las responsabilidades de un desarrollador front-end incluyen diseñar la UI en colaboración con diseñadores, implementar el diseño utilizando HTML, CSS y JavaScript, desarrollar la experiencia del usuario, realizar pruebas y depurar código, así como mantener y actualizar el código.\n\nLos desarrolladores front-end utilizan herramientas y tecnologías como HTML para la estructura, CSS para el estilo y JavaScript para la funcionalidad. Para convertirse en un desarrollador front-end, es necesario tener una sólida comprensión de HTML, CSS y JavaScript, así como habilidades en diseño y resolución de problemas.",
       "id": 3
     },
@@ -36,7 +36,7 @@
       "escritor": "Juan Ortiz",
       "fecha": "2024-01-03",
       "lead": "React es una biblioteca de JavaScript que emplea un enfoque declarativo para crear interfaces de usuario (UI). En lugar de detallar cómo construir la interfaz, los desarrolladores describen cómo debería lucir. React utiliza componentes, fragmentos de código que representan partes específicas de la UI y que pueden combinarse para formar interfaces complejas.",
-      "imagenURL": "https://cdn.pixabay.com/photo/2016/11/23/14/45/coding-1853305_960_720.jpg",
+      "imagenURL": "https://github.com/jdocdev/portfolio-app/blob/a562c409159a692ef8ccbcb01f3983c88ff3ed45/public/4.jpg",
       "texto": "La funcionalidad de React se basa en la renderización virtual, donde crea una representación en memoria de la UI antes de renderizarla en el navegador. Este método ofrece eficiencia al renderizar solo las partes modificadas y flexibilidad al permitir actualizaciones sin recargar la página.\n\nVentajas de React incluyen su eficiencia y flexibilidad, permitiendo a los desarrolladores actualizar partes específicas de la UI sin recargar toda la página. Además, cuenta con una comunidad activa que proporciona recursos para aprender y utilizar React.\n\nEntre las desventajas de React se encuentra una curva de aprendizaje pronunciada, ya que requiere la comprensión de conceptos como la renderización virtual y el uso de componentes. También depende de JavaScript, lo que implica que los desarrolladores deben tener conocimientos en este lenguaje para utilizar la biblioteca.",
       "id": 4
     },
@@ -46,7 +46,7 @@
       "escritor": "Juan Ortiz",
       "fecha": "2024-01-03",
       "lead": "JSON (JavaScript Object Notation) es un formato de datos basado en texto que utiliza pares clave-valor para representar información. Las claves son cadenas de texto, y los valores pueden ser cadenas, números, objetos JSON o arrays JSON. La sintaxis de JSON se asemeja al código JavaScript, con llaves que encierran los pares clave-valor, donde las claves van entre comillas dobles y los valores pueden ir entre comillas dobles, comillas simples o sin comillas.",
-      "imagenURL": "https://cdn.pixabay.com/photo/2016/11/30/20/58/programming-1873854_960_720.png",
+      "imagenURL": "https://github.com/jdocdev/portfolio-app/blob/a562c409159a692ef8ccbcb01f3983c88ff3ed45/public/5.png",
       "texto": "Ejemplo de objeto JSON:\n\njson\n\n{\n   \"name\": \"John Doe\",\n   \"age\": 30,\n   \"address\": \"123 Main Street, Anytown, CA\"\n}\n\nUsos de JSON incluyen el intercambio de datos entre aplicaciones y servicios, almacenamiento de datos en archivos y presentación de datos de manera legible. Ventajas de JSON incluyen su facilidad de lectura y escritura, facilidad de parseo y portabilidad para su uso en diversas aplicaciones y servicios.\n\nDesventajas de JSON son su naturaleza no binaria, lo que puede afectar la velocidad de procesamiento en comparación con formatos binarios, y su limitación en representar eficientemente datos jerárquicos.",
       "id": 5
     },
@@ -56,7 +56,7 @@
       "escritor": "Juan Ortiz",
       "fecha": "2024-01-03",
       "lead": "Una API (Interfaz de Programación de Aplicaciones) opera a través de llamadas de función, que son instrucciones enviadas por una aplicación a otra para solicitar datos o ejecutar acciones. Por ejemplo, una aplicación meteorológica puede utilizar una API de un servicio meteorológico enviando una llamada para obtener datos climáticos.",
-      "imagenURL": "https://cdn.pixabay.com/photo/2017/09/25/11/55/cyberspace-2784907_960_720.jpg",
+      "imagenURL": "https://github.com/jdocdev/portfolio-app/blob/a562c409159a692ef8ccbcb01f3983c88ff3ed45/public/6.jpg",
       "texto": "Existen varios tipos de API, como:\n\n— API REST:\nUtiliza el protocolo HTTP para la comunicación y es muy común en diversas aplicaciones.\n\n— API SOAP:\nEmplea el protocolo SOAP y es más compleja que las API REST, ofreciendo funciones adicionales.\n\n— API GraphQL:\nUtiliza un lenguaje de consulta para solicitar datos, siendo flexible al permitir a las aplicaciones obtener solo la información necesaria.\n\nEl proceso para crear una API implica definir su interfaz, especificando nombres de funciones, tipos de datos y posibles errores. Luego, se implementa la API, escribiendo el código que procesará las llamadas de función.\n\nPara utilizar una API, es necesario encontrar la API adecuada en línea y acceder a su documentación. La documentación proporciona información sobre cómo utilizar la API, detallando las llamadas de función disponibles y los datos que se pueden solicitar o enviar.",
       "id": 6
     }
